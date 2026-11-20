@@ -1,4 +1,4 @@
-# 🚀 ORION — Intelligent Industrial Asset Tracking & Management
+# ORION — Intelligent Industrial Asset Tracking & Management
 
 ### Sistema inteligente de rastreamento, localização e controle de ferramentas e instrumentos de medição.
 
