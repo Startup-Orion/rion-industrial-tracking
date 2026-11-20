@@ -175,21 +175,7 @@ FERRAMENTAS E INSTRUMENTOS
 - [ ] Testes de localização em ambiente industrial.
 - [ ] Validação e aprimoramento da solução.
 
-## 🔮 Perspectivas futuras
 
-O Orion poderá evoluir com a incorporação de inteligência artificial, análise de dados e integração com sistemas de gestão empresarial (ERP).
-
-Entre as possibilidades futuras estão a identificação de padrões de utilização, análise de movimentações, previsão de necessidades de manutenção e geração de indicadores para auxiliar a tomada de decisões.
-
-## 🌐 Sobre a Startup Orion
-
-A Startup Orion é uma iniciativa voltada ao desenvolvimento de soluções tecnológicas e inovadoras para desafios reais do mercado.
-
-Por meio deste projeto, buscamos aproximar tecnologia, conectividade e automação das necessidades da indústria, contribuindo para processos mais eficientes, organizados e inteligentes.
-
-**Orion — Tecnologia e inovação para transformar a indústria.**
-
----
 
 **Status do projeto:** Em fase de concepção e desenvolvimento.
 
